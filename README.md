@@ -2,19 +2,7 @@
 
 This project focuses on classifying news articles into various categories and analyzing the sentiment of the content using fine-tuned pretrained language models like BERT, DistilBERT, and RoBERTa. The dataset was sourced from the News API and underwent extensive preprocessing before model training.
 
-## Table of Contents
 
-- [Project Overview](#project-overview)
-- [Dataset](#dataset)
-- [Preprocessing](#preprocessing)
-- [Models](#models)
-- [Fine-Tuning](#fine-tuning)
-- [Evaluation](#evaluation)
-- [How to Run](#how-to-run)
-- [Results](#results)
-- [Future Work](#future-work)
-- [Contributing](#contributing)
-- [License](#license)
 
 ## Project Overview
 
